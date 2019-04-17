@@ -1,0 +1,18 @@
+{
+"run":[
+  {"city":"Lexington", "Distance":"3.037", "Name":"Chevy Chase"}, 
+  {"city":"Lexington", "Distance":"4.462", "Name":"Heartland"},
+  {"city":"Frankfort", "Distance":"3.675", "Name":"Dove Creek"},
+  {"city":"Louisville", "Distance":"3.113", "Name":"PRP"},
+  {"city":"Lexington", "Distance":"3.234", "Name":"copperfield"},
+  {"city":"Lexington", "Distance":"9.345", "Name":"Legacy Trail"},
+  {"city":"Lexington", "Distance":"2.454", "Name":"short run"},
+  {"city":"Versailles", "Distance":"3.117", "Name":"Versailles"},
+  {"city":"Versailles", "Distance":"3.981", "Name":"stourbridge"},
+  {"city":"Nicholasville", "Distance":"3.323", "Name":"Lake Mingo"},
+  {"city":"Georgetown", "Distance":"4.545", "Name":"Winder Park"},
+  {"city":"Lexington", "Distance":"3.572", "Name":"Masterson"},
+  {"city":"Nicholasville", "Distance":"6.739", "Name":"Camp Nelson"},
+  {"city":"Cincinnati", "Distance":"6.232", "Name":"Eden Park"}
+]
+}

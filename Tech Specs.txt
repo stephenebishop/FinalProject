@@ -1,0 +1,22 @@
+-- Tech Specs:
+
+Display Requirments:    Mobile
+Browser:    Safari
+Languages Used: HTML, CSS, Java Script
+Third Part Tech:  API, Possibly Strava
+
+--User Story:
+
+Runner:
+Site Admin / Developer
+
+As a Runner I want to locate a running route within a set distance of my current location that matches the
+distance I want to run within a 10% margin.
+
+As a runner I want to see a running route of a set distance that has a difficulty based on total elevation
+gained during the run.
+
+As a runner I want to see a running routes that start and end at the same location.
+
+-- User Journeys:
+
